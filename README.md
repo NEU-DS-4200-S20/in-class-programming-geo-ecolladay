@@ -8,6 +8,8 @@ We've also shortened the tutorial.  If you'd like to see the original tutorial, 
 
 When you are finished, please publish to github pages, and post a link to your github pages HERE:
 
+[LINK](https://neu-ds-4200-s20.github.io/in-class-programming-geo-ecolladay/)
+
 Then, submit a link to your repository on Canvas under the in-class assignment page.
 
 ## Let's get started!
